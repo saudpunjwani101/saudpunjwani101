@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Saud Punjwani.
+
+- Working full time as FullStack Javascript Developer at Waiterio (https://waiterio.com)
+- Always into learning new stuff. Currently getting my hands dirty with Ruby on Rails!
+- Reach me at twitter @saudpunjwani101
 
 <!--
 **saudpunjwani101/saudpunjwani101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
