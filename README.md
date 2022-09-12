@@ -2,7 +2,7 @@
 
 - FullStack JavaScript Developer
 - Currently getting my hands dirty with Rust
-- Reach me at twitter @saudpunjwani101
+- Reach me at twitter [@saudpunjwani101](https://twitter.com/saudpunjwani101)
 
 I'm thinking of removing linter from my VsCode extensions after using Rust. The compiler is so freaking good. It takes time to compile but it sure does the job better than any other I've used so far.
 
