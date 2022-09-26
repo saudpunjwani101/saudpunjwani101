@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Saud Punjwani.
+### Hey yo 👋 I'm Saud Punjwani.
 
 <ul>
   <li>🔭 FullStack JavaScript Developer</li>
