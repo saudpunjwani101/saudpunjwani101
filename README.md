@@ -3,6 +3,7 @@
 <ul>
   <li>FullStack JavaScript Developer</li>
   <li>Currently getting my hands dirty with Rust, Go and TypeScript</li>
+  <li>Ask me about <strong>JavaScript, React.js, Node.js, Product development, and remote work</li>
   <li>How to reach me <a href="mailto:saudpunjwani101@gmail.com">saudpunjwani101@gmail.com</a></li>
   <li>Fun fact: I've been writing React apps in production for 6 years without ever needing TypeScript :D</li>
 </ul>
