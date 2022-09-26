@@ -1,10 +1,11 @@
 ### Hi there 👋 I'm Saud Punjwani.
 
-- FullStack JavaScript Developer
-- Currently getting my hands dirty with Rust
-- Reach me at twitter [@saudpunjwani101](https://twitter.com/saudpunjwani101)
-
-I'm thinking of removing linter from my VsCode extensions after using Rust. The compiler is so freaking good. It takes time to compile but it sure does the job better than any other I've used so far.
+<ul>
+  <li>FullStack JavaScript Developer</li>
+  <li>Currently getting my hands dirty with Rust, Go and TypeScript</li>
+  <li>How to reach me [saudpunjwani101@gmail.com](mailto:saudpunjwani101@gmail.com)</li>
+  <li>Fun fact: I've been writing React apps in production for 6 years without ever needing TypeScript :D</li>
+</ul>
 
 <!--
 **saudpunjwani101/saudpunjwani101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
