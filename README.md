@@ -5,7 +5,7 @@
   <li>🌱 Currently getting my hands dirty with Rust, Go and TypeScript</li>
   <li>💬 Ask me about <strong>JavaScript, React.js, Node.js, Product development and remote work</strong></li>
   <li>📫 How to reach me <a href="mailto:saudpunjwani101@gmail.com">saudpunjwani101@gmail.com</a></li>
-  <li>⚡ Fun fact: I've been writing Js apps in production for 6 years without ever needing TypeScript :D</li>
+  <li>⚡ Fun fact: I think TypeScript isn't type safe enough :D</li>
 </ul>
 
 #### Connect with me:
