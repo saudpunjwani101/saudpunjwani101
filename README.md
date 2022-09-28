@@ -3,7 +3,7 @@
 <ul>
   <li>🔭 FullStack JavaScript Developer</li>
   <li>🌱 Currently getting my hands dirty with Rust, Go and TypeScript</li>
-  <li>💬 Ask me about <strong>JavaScript, React.js, Node.js, Product development and remote work</strong></li>
+  <li>💬 Ask me about <strong>JavaScript, React.js, Node.js, Product development, remote work and travel</strong></li>
   <li>📫 How to reach me <a href="mailto:saudpunjwani101@gmail.com">saudpunjwani101@gmail.com</a></li>
   <li>⚡ Fun fact: I think TypeScript isn't type safe enough :D</li>
 </ul>
