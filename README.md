@@ -1,8 +1,7 @@
 ### Hey yo 👋 I'm Saud Punjwani.
 
 <ul>
-  <li>Open to work on new stuff</li>
-  <li>🔭 Previously - FullStack JavaScript Developer at Waiterio POS</li>
+  <li>🔭 Senior FullStack JavaScript Developer at Waiterio POS</li>
   <li>🌱 Currently getting my hands dirty with Docker and Kubernetes</li>
   <li>💬 Ask me about <strong>JavaScript, React.js, Node.js, Product development, remote work and travel</strong></li>
   <li>📫 How to reach me <a href="mailto:saudpunjwani101@gmail.com">saudpunjwani101@gmail.com</a></li>
