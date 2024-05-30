@@ -1,11 +1,17 @@
 ### Hey yo 👋 I'm Saud Punjwani.
 
+<div>
+  Currently open for following roles and tech, 
+  <ul>
+    <li>Frontend Lead (React.js 8+ years)</li>
+    <li>FullStack Js with React, Next, Remix, Node, Mongo/Postgres and AWS</li>
+  </ul>
+</div>
+
 <ul>
   <li>🔭 Senior FullStack JavaScript Developer at Waiterio POS</li>
-  <li>🌱 Currently getting my hands dirty with Docker and Kubernetes</li>
   <li>💬 Ask me about <strong>JavaScript, React.js, Node.js, Product development, remote work and travel</strong></li>
   <li>📫 How to reach me <a href="mailto:saudpunjwani101@gmail.com">saudpunjwani101@gmail.com</a></li>
-  <li>⚡ Fun fact: I think TypeScript isn't type safe enough :D</li>
 </ul>
 
 #### Connect with me:
