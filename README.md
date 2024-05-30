@@ -4,7 +4,7 @@
   I'm open for following roles based in the US, 
   <ul>
     <li>Frontend Lead (React.js 8+ years)</li>
-    <li>FullStack Js with React, Next, Remix, Node, Mongo/Postgres and AWS</li>
+    <li>FullStack Js with React, Next, Remix, Node, Mongo/Postgres and AWS. For full profile checkout the linkedin profile link below</li>
     <li>🔭 Currently working as Senior FullStack JavaScript Developer at Waiterio POS</li>
     <li>📫 How to reach me <a href="mailto:saudpunjwani101@gmail.com">saudpunjwani101@gmail.com</a></li>
   </ul>
