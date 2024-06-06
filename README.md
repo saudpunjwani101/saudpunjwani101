@@ -1,6 +1,6 @@
 ### Hey yo 👋 I'm Saud Punjwani.
 
-# I'm open for new opportunities as Frontend Lead (React), FullStack (React / Node). Currently based in Houston, Tx. For full profile checkout the linkedin link below
+### I'm open for new opportunities as Frontend Lead (React), FullStack (React / Node). Currently based in Houston, Tx. For full profile checkout the linkedin link below
 
 <ul>
   <li>FullStack JS for 8+ years</li>
