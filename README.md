@@ -4,7 +4,7 @@
 
 <ul>
   <li>FullStack JS for 8+ years</li>
-  <li>Currently working as Senior FullStack JavaScript Developer at Waiterio POS</li>
+  <li>Currently working as Senior FullStack JavaScript Developer at <a href="https://waiterio.com">Waiterio POS</a></li>
   <li>How to reach me <a href="mailto:saudpunjwani101@gmail.com">saudpunjwani101@gmail.com</a></li>
 </ul>
 
