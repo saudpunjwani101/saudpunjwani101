@@ -3,8 +3,8 @@
 ### I'm open for new opportunities as Frontend Lead (React), FullStack (React / Node). Currently based in Houston, Tx. For full profile checkout the linkedin link below
 
 <ul>
-  <li>FullStack JS for 8+ years</li>
-  <li>Currently working as Senior FullStack JavaScript Developer at <a href="https://waiterio.com">Waiterio POS</a></li>
+  <li>Building SaaS for 10 years</li>
+  <li>Currently Building <a href="https://pulsebizz.com">PulseBizz</a></li>
   <li>How to reach me <a href="mailto:saudpunjwani101@gmail.com">saudpunjwani101@gmail.com</a></li>
 </ul>
 
